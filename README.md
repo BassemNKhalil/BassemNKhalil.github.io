@@ -2,6 +2,8 @@
 
 Minimalist blogging at its finest
 
+[2021-04-06 (Desk setup - Bose NC700) How to use the mute function](posts/2021-04-06.md)
+
 [2021-04-02 (Custom themes for Github pages) How to link a remote theme with minimal effort](posts/2021-04-02.md)
 
 [2021-04-01 (Not April Fool's) Turn off the Azure AD “Stay signed in?” page](posts/2021-04-01.md)
