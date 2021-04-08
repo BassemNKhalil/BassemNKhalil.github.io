@@ -1,0 +1,11 @@
+<AAD>
+<AZURE>
+<Bose>
+<BOT>
+<DeskSetup>
+<DevTenant>
+<GIT>
+<GitHub>
+<GitHubPages>
+<NC700>
+<SQUASH>
