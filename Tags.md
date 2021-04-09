@@ -3,9 +3,12 @@
 <Bose>
 <BOT>
 <DeskSetup>
+<DevLife>
 <DevTenant>
 <GIT>
 <GitHub>
 <GitHubPages>
+<Google>
 <NC700>
 <SQUASH>
+<Search>
