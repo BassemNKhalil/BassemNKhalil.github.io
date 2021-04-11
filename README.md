@@ -1,5 +1,7 @@
 # [M365Bass.github.io](https://M365Bass.github.io)
 
+# Test H1
+
 Minimalist blogging at its finest
 
 [2021-04-09 (Google is your friend) What I searched for (9 April 2021)](posts/2021-04-09.md)
