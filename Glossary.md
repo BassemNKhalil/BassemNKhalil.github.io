@@ -1,3 +1,11 @@
+2021-04-12
+1. [on the mend](https://www.google.com/search?q=on+the+mend) as in 'hope you're on the mend soon' similar to get well soon
+    Other notable `get well soon`
+    1. Get well soon <person>
+    1. Rest up <person>
+    1. Feel\Get better soon <person>
+    1. Hope you feel better <person>
+    1. Poor thing - that is rough. Hope you feel better soon.
 2021-04-11
 1. [yak shaving](https://www.google.com/search?q=yak+shaving) is when a task leads you to perform another related task and so on, and so on — all distracting you from your original goal. Illustration courtesy of [Corey Quinn on twitter](https://twitter.com/QuinnyPig/status/1381057551270223876?s=20)
 ![DuckBill at its best](https://pbs.twimg.com/media/EyqAhghVIAos8Um?format=jpg&name=small)
