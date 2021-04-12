@@ -1,8 +1,11 @@
-@import "";
-.markdown-body
-{
-  background-color: black !important;
+---
+---
+@import "{{ site.theme }}";
+.markdown-body {
+  h1 {
+    color: rosybrown !important;
+  }
 }
-h1 {
- color: #ff0000;
+#test-h1---take-2 {
+  color: purple !important;
 }

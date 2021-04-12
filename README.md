@@ -1,6 +1,6 @@
 # [M365Bass.github.io](https://M365Bass.github.io)
 
-# Test H1
+# Test H1 - take 2
 
 Minimalist blogging at its finest
 
