@@ -26,7 +26,9 @@ Minimalist blogging at its finest
 1. Standard DS11 v2 (2 vcpus, 14 GiB memory) - additional data disk (16GB), now removed but not deleted
 1. Download and install nvm for windows
 1. Install node 10 (SP Dev) and latest (General use inc. Azure)
-1. npm install gulp yo @microsoft/generator-sharepoint --global
+1. `npm install gulp yo @microsoft/generator-sharepoint --global`
+1. Install browsers, git and vscode
+1. Git verified (gpg)
 
 #### Fresh Dev Tenant
 1. Change AAD login background and logo
