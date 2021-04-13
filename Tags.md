@@ -2,6 +2,7 @@
 <AZURE>
 <Bose>
 <BOT>
+<CSS>
 <DeskSetup>
 <DevLife>
 <DevTenant>
@@ -9,6 +10,12 @@
 <GitHub>
 <GitHubPages>
 <Google>
+<Hack>
+<Modern>
 <NC700>
-<SQUASH>
 <Search>
+<SharePoint>
+<SQUASH>
+<Workaround>
+
+<!-- sortLinesCaseInsensitive -->

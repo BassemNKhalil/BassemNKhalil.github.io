@@ -4,6 +4,8 @@
 
 Minimalist blogging at its finest
 
+[2021-04-13 (Add CSS to modern SharePoint page) But just because you can doesn't mean you should..](posts/2021-04-13.md)
+
 [2021-04-09 (Google is your friend) What I searched for (9 April 2021)](posts/2021-04-09.md)
 
 [2021-04-06 (Desk setup - Bose NC700) How to use the mute function](posts/2021-04-06.md)
