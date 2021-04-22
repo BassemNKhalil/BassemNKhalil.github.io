@@ -31,6 +31,7 @@ Minimalist blogging at its finest
 #### Azure VM
 
 1. Standard DS11 v2 (2 vcpus, 14 GiB memory) - additional data disk (16GB), now removed but not deleted
+    * To save on cost, did a second one with the same DS11 but this time went with a Standard SSD and a spot instance. Performance is noticeably much worse from the get go - will keep monitoring to see if that's the spot instance varying on performance depending on availability or if Standard and Premium SSDs matter that much - it's a windows 10 preview but I doubt that's the culprit, everything else is the same.
 1. Download and install nvm for windows
 1. Install node 10 (SP Dev) and latest (General use inc. Azure)
 1. `npm install gulp yo @microsoft/generator-sharepoint --global`
