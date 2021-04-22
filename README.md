@@ -4,6 +4,8 @@
 
 Minimalist blogging at its finest
 
+[2021-04-22 (Alias for nvm-windows) Quickly switch node version without having to memorise the exact node version](posts/2021-04-22.md)
+
 [2021-04-13 (Add CSS to modern SharePoint page) But just because you can doesn't mean you should..](posts/2021-04-13.md)
 
 [2021-04-09 (Google is your friend) What I searched for (9 April 2021)](posts/2021-04-09.md)
@@ -19,12 +21,15 @@ Minimalist blogging at its finest
 [2021-03-31 (Azure Bot - connectivity issues) Error sending this message to your bot: HTTP status code Forbidden](posts/2021-03-31_1.md)
 
 ## Minis
+
 [April minis](minis/2021-04.md)
 
 [March minis](minis/2021-03.md)
 
 ### Dev setup
+
 #### Azure VM
+
 1. Standard DS11 v2 (2 vcpus, 14 GiB memory) - additional data disk (16GB), now removed but not deleted
 1. Download and install nvm for windows
 1. Install node 10 (SP Dev) and latest (General use inc. Azure)
@@ -33,5 +38,6 @@ Minimalist blogging at its finest
 1. Git verified (gpg)
 
 #### Fresh Dev Tenant
+
 1. Change AAD login background and logo
 1. Disable `Security defaults` and replace with Conditional Access policies
