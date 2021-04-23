@@ -1,3 +1,10 @@
+2021-04-23
+
+1. [co-ed school](https://www.google.com/search?q=co-ed) is s mixed school
+1. [two up](https://www.google.com/search?q=two+up) is a double coin toss which is [illegal all year long (because unregulated gambling) but celebrated on ANZAC day](https://7news.com.au/news/anzac/is-two-up-illegal-in-australia-how-and-where-can-i-play-two-up-as-the-anzac-day-tradition-returns-in-2021-c-2649501)
+
+![Two Up](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Two_up_set.jpg/1920px-Two_up_set.jpg)
+
 2021-04-21
 
 1. [languishing](https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/19/well/mind/covid-mental-health-languishing.amp.html)
