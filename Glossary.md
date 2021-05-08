@@ -1,3 +1,8 @@
+2021-05-08
+
+1. [Maven](https://www.google.com.au/search?q=maven+meaning) is an expert, it is pronounced `May` like the month not `Ma` like Jack Ma - The SharePoint Maven is [Gregory Zelfond](https://sharepointmaven.com)
+1. [Up the ante](https://www.google.com.au/search?q=up+the+ante) means to increase the stakes
+
 2021-04-23
 
 1. [co-ed school](https://www.google.com/search?q=co-ed) is s mixed school
