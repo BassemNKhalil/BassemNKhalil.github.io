@@ -1,3 +1,13 @@
+2021-05-11
+
+1. [Hubris](https://www.google.com.au/search?q=hubris)
+1. [Brevity](https://www.google.com.au/search?q=brevity)
+1. [Dunning kruger effect & imposter syndrome](https://www.google.com.au/search?q=dunning+kruger+effect+and+imposter+syndrome) The two opposing powers, a developer's yin yang
+1. [Vista](https://www.google.com.au/search?q=vista) is a pleasing view
+1. [Caveat](https://www.google.com.au/search?q=caveat) with one Caveat (one catch)
+1. [Proviso](https://www.google.com.au/search?q=proviso) a condition
+1. [Plight](https://www.google.com.au/search?q=plight) unfortunate situation or a hardship
+
 2021-05-08
 
 1. [Maven](https://www.google.com.au/search?q=maven+meaning) is an expert, it is pronounced `May` like the month not `Ma` like Jack Ma - The SharePoint Maven is [Gregory Zelfond](https://sharepointmaven.com)
