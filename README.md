@@ -2,6 +2,8 @@
 
 Minimalist blogging at its finest
 
+[2021-05-19 Package versioning in SPFx solutions](posts/2021-05-19.md)
+
 [2021-04-25 (Run SPFx over SSH) How I used a Linux server as my dev env. while still working on my M1 Mac](posts/2021-04-25.md)
 
 [2021-04-22 (Alias for nvm-windows) Quickly switch node version without having to memorise the exact node version](posts/2021-04-22.md)
