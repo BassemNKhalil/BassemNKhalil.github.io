@@ -15,6 +15,7 @@
       Final option, currently used - an Ubuntu VM (same DS111 specs as above). Aside from [a quick initial setup for VSCode](../posts/2021-04-25.md), it works brilliantly!
 
 1. Download and install nvm (or nvm-windows)
-1. Install node 10 (SP Dev) and latest (General use inc. M365 CLI and Azure)
-1. `npm install gulp yo @microsoft/generator-sharepoint --global`
-1. Install browsers, git and vscode
+1. Install node versions for SPFx 1.10 (node 10) | 1.11 (node 10) | 1.12 (node 14)
+1. Install two more versions of node, one for general use (Latest LTS) including M365 CLI and Azure and another for M365 CLI beta (Latest)
+1. For node 14 `npm install gulp yo @microsoft/generator-sharepoint --global` to install latest
+1. Install browsers, git and vscode as needed
