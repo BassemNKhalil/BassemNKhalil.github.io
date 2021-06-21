@@ -3,7 +3,7 @@
 1. [version-sync](../posts/2021-05-19.md)
 1. [spfx-fast-serve](https://github.com/s-KaiNet/spfx-fast-serve#how-to-use)
 1. [Update baseWP to include all props by default](../minis/2021-06.md#mini-1-add-all-props-in-spfx-wp-by-default)
-1. [Apply theme variant (WebParts only)](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/guidance/supporting-section-backgrounds)
+1. [Support theme variant (section backgrounds) - WebParts only](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/guidance/supporting-section-backgrounds)
 
 ### Useful additions - as needed
 
