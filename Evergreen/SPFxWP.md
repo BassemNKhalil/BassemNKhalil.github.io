@@ -2,7 +2,7 @@
 
 1. [version-sync](../posts/2021-05-19.md)
 1. [spfx-fast-serve](https://github.com/s-KaiNet/spfx-fast-serve#how-to-use)
-1. Update baseWP to include all props by default
+1. [Update baseWP to include all props by default](../minis/2021-06.md#Mini-1-Add-all-props-in-SPFx-wp-by-default)
 1. Apply theme variant (WebParts only)
 
 ### Useful additions - as needed
