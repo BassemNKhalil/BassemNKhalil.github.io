@@ -24,6 +24,8 @@ Minimalist blogging at its finest
 
 ## Minis
 
+[minis-JUN](minis/2021-06.md)
+
 [minis-MAY](minis/2021-05.md)
 
 [minis-APR](minis/2021-04.md)
