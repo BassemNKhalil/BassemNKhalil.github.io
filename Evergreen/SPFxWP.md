@@ -1,7 +1,7 @@
 ## Welcome additions to a vanilla SPFx Components
 
-1. version-sync
-1. spfx-fast-serve
+1. [version-sync](posts/2021-05-19.md)
+1. [spfx-fast-serve](https://github.com/s-KaiNet/spfx-fast-serve#how-to-use)
 1. Update baseWP to include all props by default
 1. Apply theme variant (WebParts only)
 
