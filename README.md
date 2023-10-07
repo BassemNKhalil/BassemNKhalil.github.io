@@ -38,8 +38,4 @@ Minimalist blogging at its finest
 
 ## Evergreen
 
-[VM](Evergreen/VM.md)
-
-[M365 tenant](Evergreen/M365-tenant.md)
-
 [SPFx - MUST HAVEs](Evergreen/SPFxWP.md)
