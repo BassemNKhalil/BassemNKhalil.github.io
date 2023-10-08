@@ -1,20 +1,18 @@
 ## Welcome additions to a vanilla SPFx Components
 
-Create a new folder `VanillaWP`, cd into the new folder & scaffold using `yo @microsoft/sharepoint`
+- To scaffold using `yo @microsoft/sharepoint`, use the following command (then npm i) to ensure structure is correct before installing dependencies
+`
+yo @microsoft/sharepoint --solution-name "VanillaSolution" --framework "react" --component-type "webpart" --component-name "VanillaWebPart1" --skip-install
+`
 
-- Provide the name `Vanilla` for both solution and webpart - this ensures the baseWebPart is `VanillaWebPart.ts`, the webpart is `Vanilla.tsx` under `components` and the package name is `vanilla.sppkg`
-- When unsure, use `--skip-instal` to make it quick and iterate
-- The following hasn't been tested but may automate the above but not yet tested:
+- The solution name is for the parent folder and the component name is for the WebPart component. This ensures the baseWebPart is `VanillaWebPart1WebPart.ts`, the WebPart under `components` is `VanillaWebPart1.tsx` and the package name is `vanilla-for-node.sppkg` in the `package-solution.json`
 
-         yo @microsoft/sharepoint
-         --solution-name "Vanilla"
-         --framework "react"
-         --component-type "webpart"
-         --component-name "Vanilla"
-         --skip-install
-         --environment "spo"
+- Use the following command (removing `--solution-name "VanillaSolution"`) when adding a second WebPart to an existing solution. Make sure you're inside the solution folder.
+`
+yo @microsoft/sharepoint --framework "react" --component-type "webpart" --component-name "VanillaWebPart2" --skip-install
+`
 
-  [yo options on MS Docs](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/toolchain/scaffolding-projects-using-yeoman-sharepoint-generator#command-line-options)
+For more details, run `yo @microsoft/sharepoint --help` as per [yo options on MS Docs](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/toolchain/scaffolding-projects-using-yeoman-sharepoint-generator#command-line-options)
 
 1. [version-sync](../posts/2021-05-19.md)
 1. [spfx-fast-serve](https://github.com/s-KaiNet/spfx-fast-serve#how-to-use)
